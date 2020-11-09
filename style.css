@@ -1,0 +1,225 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    padding-right: 50px;
+}
+
+li{
+    float: right;
+}
+
+li a{
+    display: block;
+    color: teal;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: lightslategray;
+    color: white;
+}
+
+#logo{
+    float: left;
+    padding: 10px 50px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    background-image: url(./kiran-ck-UkO7K1CPFS8-unsplash.jpg);
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100vh;
+}
+
+.container{
+    text-align: center;
+    padding-top: 130px;
+    font-size: 4,3rem;
+    text-transform: uppercase;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#text-under-picture{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+#text-under-picture h1{
+    font-size: 2rem;
+    letter-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#text-under-picture p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1,3rem;
+    padding-top: 15px;
+}
+
+#text-under-picture1{
+    width: 40%;
+    height: 100vh;
+    float: left;
+    font-size: 1,3rem;
+    
+}
+
+#text-under-picture2{
+    width: 40%;
+    height: 100vh;
+    float: left;
+    font-size: 1,3rem;
+}
+
+
+
+#What-we-do{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+#What-we-do h1{
+    font-size: 2rem;
+    letter-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#What-we-do p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1,3rem;
+    padding-top: 20px;
+}
+
+#What-we-do1{
+    width: 40%;
+    height: 100vh;
+    font-size: 1,3rem;
+    margin-left: 100px;
+}
+
+#What-we-do2{
+    width: 40%;
+    height: 100vh;
+    font-size: 1,3rem;
+    margin-left: 100px;
+}
+
+#About-us{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+#About-us h1{
+    font-size: 2rem;
+    letter-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#About-us p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1,3rem;
+    padding-top: 20px;
+}
+
+#About-us1{
+    width: 40%;
+    height: 100vh;
+    font-size: 1,3rem;
+    margin-left: 100px;
+    float: left;
+}
+
+#About-us2{
+    width: 40%;
+    height: 100vh;
+    font-size: 1,3rem;
+    margin-left: 100px;
+    float: left;
+}
+
+#Contact-us{
+    width: 60%;
+    height: 70vh;
+    margin: auto;
+}
+
+#Contact-us h1{
+    text-align: center;
+}
+
+#inp1{
+    width: 45%;
+    height: 10vh;
+    float: left;
+    margin-top: 30px;
+}
+
+#inp2{
+    width: 45%;
+    height: 10vh;
+    float: right;
+    margin-top: 30px;
+}
+
+#inp1 input{
+    width: 100%;
+    height: 40%;
+    padding: 10px;
+}
+
+#inp2 input{
+    width: 100%;
+    height: 40%;
+    padding: 10px;
+}
+
+textarea{
+    width: 100%;
+    margin-top: 20px;
+    padding: 12px;
+}
+
+.button1{
+    width: 20%;
+    height: 40px;
+    outline: none;
+    border: none;
+    border-radius: 60px;
+    margin-right: 20px;
+    font-weight: bold;
+    background-color: lightslategray;
+    color: white;
+}
+
