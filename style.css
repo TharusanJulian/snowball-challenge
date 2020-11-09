@@ -46,7 +46,7 @@ li a:hover{
 }
 
 .container{
-    text-align: center;
+    text-align: center; 
     padding-top: 130px;
     font-size: 4,3rem;
     text-transform: uppercase;
@@ -92,7 +92,6 @@ li a:hover{
     float: left;
     font-size: 1,3rem;
 }
-
 
 
 #What-we-do{
@@ -211,7 +210,7 @@ textarea{
     padding: 12px;
 }
 
-.button1{
+.button{
     width: 20%;
     height: 40px;
     outline: none;
@@ -222,4 +221,5 @@ textarea{
     background-color: lightslategray;
     color: white;
 }
+
 
